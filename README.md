@@ -1,0 +1,2 @@
+# Decentalized-To-Do-List
+Implemented a Decentralized To-Do List using Ethereum Smart Contracts using Truffle Framework. The user can create list of tasks according to their priority and check them off once done. The web app provides a userfriendly web app UI for the to-do list functioning. The Metamask Wallet is rewuired in order to process the transcations in the Ethereum Blockchain. The app helps the user to be organised and also acts as a memory aid.
